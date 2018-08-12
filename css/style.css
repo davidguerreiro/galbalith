@@ -1,25 +1,29 @@
 .main {
-  max-width: 50%;
+  width: 100%;
   margin: 1.3rem auto 0 auto; }
   .main__cover-image {
     display: block;
     width: 100%;
     height: auto;
-    margin: 0 auto; }
+    margin: 0 auto;
+    max-width: 600px;
+    min-width: 260px; }
   .main__notification {
     text-align: center;
-    padding: 1.1rem;
+    padding: 1.1rem 0;
     font-size: 2rem;
     width: 100%; }
 
 .footer {
   padding-top: 5rem; }
   .footer__primary-elements {
+    padding-left: 0 !important;
     list-style-type: none;
     text-align: center; }
     .footer__primary-elements li {
       display: inline-block;
-      padding-right: 1rem; }
+      padding-right: 1rem;
+      padding-bottom: 1rem; }
       .footer__primary-elements li a {
         color: #9a3535;
         text-decoration: none; }
