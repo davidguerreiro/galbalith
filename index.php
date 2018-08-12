@@ -6,7 +6,7 @@
  */
 
 
- $cover_image = get_template_directory() . '/assets/img/cover.png';
+ $cover_image = get_template_directory_uri() . '/assets/img/cover.png';
 
  
  get_header();
