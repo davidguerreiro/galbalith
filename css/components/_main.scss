@@ -1,0 +1,19 @@
+
+.main {
+    max-width: 50%;
+    margin: 1.3rem auto 0 auto;
+
+    &__cover-image {
+        display: block;
+        width: 100%;
+        height: auto;
+        margin: 0 auto;
+    }
+
+    &__notification {
+        text-align: center;
+        padding: 1.1rem;
+        font-size: 2rem;
+        width: 100%;
+    }
+}

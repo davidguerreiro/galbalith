@@ -13,10 +13,8 @@
 
  ?>
 
- <div class="main">
-    <img src="<?php echo esc_url( $cover_image ); ?>" alt="cover">
-    <p>Ahora en desarrollo</p>
- </div>
+    <img src="<?php echo esc_url( $cover_image ); ?>" alt="cover" class="main__cover-image">
+    <h2 class="main__notification"> - Ahora en desarrollo - </h2>
 
 
  <?php get_footer();
