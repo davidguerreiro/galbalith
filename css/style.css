@@ -24,6 +24,10 @@
       display: inline-block;
       padding-right: 1rem;
       padding-bottom: 1rem; }
+      @media screen and (max-width: 450px) {
+        .footer__primary-elements li {
+          display: block;
+          width: 100%; } }
       .footer__primary-elements li a {
         color: #9a3535;
         text-decoration: none; }
