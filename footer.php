@@ -10,9 +10,9 @@
         </main>
         <footer class="footer">
             <ul class="footer__primary-elements">
-                <li>&copy; 2011 - 2018 Galbalith</li>
+                <li>&copy; 2018 Galbalith</li>
                 <li> 
-                    Un juego desarrollado por <a href="https://github.com/davidguerreiro" target="_blank">David Guerreiro</a>
+                    Un juego desarrollado por <a href="http://davidguerreiro.com" target="_blank">David Guerreiro</a>
                 </li>
             </ul>
         </footer>
